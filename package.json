@@ -64,7 +64,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0-0"
+    "react": "^16.13.1"
   },
   "typings": "./index.d.ts"
 }
